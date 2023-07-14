@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 *.mp3 binary
-* text=auto
+# * text=auto
 
